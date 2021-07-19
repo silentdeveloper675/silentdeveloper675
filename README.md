@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @silentdeveloper675
+- 👋 Hi, I’m @abhishekunhale
 - 👀 I’m interested in cp and development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on different projects in development domain
-- 📫 How to reach me Techjunkie675@gmail.com
+- 📫 How to reach me abhishekunhale675@gmail.com
 
 <!---
 silentdeveloper675/silentdeveloper675 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
